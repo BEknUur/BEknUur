@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GDSC**
 
-- 🌱 I’m currently learning **,Golang,React**
+- 🌱 I’m currently learning **,SWIFT,DJANGO**
 
 - 💬 Ask me about **C++,Python**
 
