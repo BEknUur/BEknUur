@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beknur</h1>
 <h3 align="center">A passionate future full-stack engineer from Kazakhstan</h3>
-- 🌱 I’m currently learning **DJANGO**
+- 🌱 I’m currently learning Django
 
 - 💬 Ask me about **C++,Python**
 
