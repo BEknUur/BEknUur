@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beknur</h1>
 <h3 align="center">A passionate future full-stack engineer from Kazakhstan</h3>
-
-- 🔭 I’m currently working on **GDSC**
-
-- 🌱 I’m currently learning **,SWIFT,DJANGO**
+- 🌱 I’m currently learning **DJANGO**
 
 - 💬 Ask me about **C++,Python**
 
