@@ -40,18 +40,18 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=BEknUur&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <h3 align="left">Top Languages:</h3>
 <p align="left">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEknUur&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <h3 align="left">GitHub Streak:</h3>
 <p align="left">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BEknUur&theme=radical" alt="GitHub Streak" />
 </p>
