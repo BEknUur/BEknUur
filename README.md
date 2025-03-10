@@ -2,8 +2,8 @@
 <h3 align="center">A passionate future full-stack engineer from Kazakhstan</h3>
 
 - 🌱 I’m currently working at **Enjoy** and **Nanny**  
-- 🚀 I also know **Python** and **Spring Boot**  
-- 🔭 I'm currently learning **AngularJS**, **React**, **TypeScript**, **FastAPI**, and 
+- 🚀 I also know  and **Spring Boot**  
+- 🔭 I'm currently learning   **TypeScript**, **FastAPI**,
 - 💬 Ask me about **C++**, **Python**  
 - 📫 How to reach me: **ualihanulybeknur@gmail.com**
 
