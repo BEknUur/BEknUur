@@ -2,8 +2,8 @@
 <h3 align="center">A passionate future full-stack engineer from Kazakhstan</h3>
 
 - 🌱 I’m currently working at **Enjoy** and **Nanny**  
-- 🚀 I also know  and **Spring Boot**  
-- 🔭 I'm currently learning   **TypeScript**, **FastAPI**,
+- 🚀 I also know **Python** and **Spring Boot**  
+- 🔭 I'm currently learning **AngularJS**, **React**, **TypeScript**, **FastAPI**, and **Spring**  
 - 💬 Ask me about **C++**, **Python**  
 - 📫 How to reach me: **ualihanulybeknur@gmail.com**
 
@@ -34,4 +34,24 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<h3 align="left">Top Languages:</h3>
+<p align="left">
+  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<h3 align="left">GitHub Streak:</h3>
+<p align="left">
+  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
