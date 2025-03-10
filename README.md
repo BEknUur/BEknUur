@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working at **Enjoy** and **Nanny**  
 - 🚀 I also know **Python** and **Spring Boot**  
-- 🔭 I'm currently learning **AngularJS**, **React**, **TypeScript**, **FastAPI**, and **Spring**  
+- 🔭 I'm currently learning **AngularJS**, **React**, **TypeScript**, **FastAPI**, and 
 - 💬 Ask me about **C++**, **Python**  
 - 📫 How to reach me: **ualihanulybeknur@gmail.com**
 
