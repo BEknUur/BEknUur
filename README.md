@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beknur</h1>
-<h3 align="center">A passionate future full-stack engineer from Kazakhstan</h3>
+<h3 align="center">A passionate future backend developer from Kazakhstan</h3>
 
 - 🌱 I’m currently working at **Enjoy** and **Nanny**  
 - 🚀 I also know **Python** and **Spring Boot**  
