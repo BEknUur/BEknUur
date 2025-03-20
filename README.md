@@ -25,8 +25,8 @@ const beknur = {
   workingAt: ["Enjoy", "Nanny"],
   code: ["C++", "Python", "JavaScript", "TypeScript", "HTML", "CSS"],
   frameworks: ["Spring Boot", "FastAPI", "React", "AngularJS", "Express"],
-  containerization: ["Docker",],
-  uiLibraries: ["Tailwind CSS", "Material UI", "Bootstrap",],
+  containerization: ["Docker"],
+  uiLibraries: ["Tailwind CSS", "Material UI", "Bootstrap"],
   databases: ["PostgreSQL", "MongoDB", "MySQL"],
   devOps: [ "GitHub Actions"],
   cloudPlatforms: ["AWS", "Google Cloud", "Azure"],
@@ -88,12 +88,12 @@ const beknur = {
       </a>
       <br>Angular
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
+   <td align="center" width="96">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="Tailwind" />
+  </a>
+  <br>Tailwind
+</td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
