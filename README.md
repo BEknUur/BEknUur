@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/BEknUur/BEknUur/raw/main/assets/header-banner.png" alt="Beknur Ualikhanov" width="100%" />
-</div>
+
 
 <h1 align="center">
 
@@ -141,22 +139,18 @@ const beknur = {
   <a href="mailto:ualihanulybeknur@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/beknur_ualikhanov">
+  <a href="https://t.me/nahqt">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/beknur-ualikhanov/">
+  <a href="https://www.linkedin.com/in/beknur-ualikhanuly-039704245/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BEknUur/BEknUur/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
----
 
-<div align="center">
-  "Crafting clean code and solving complex problems - one commit at a time."
-</div>
+
+
+
