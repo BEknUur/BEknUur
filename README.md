@@ -3,8 +3,8 @@
 </div>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  Beknur Ualikhanov | Backend Warrior
+
+  Beknur Ualikhanuly
 </h1>
 
 <div align="center">
@@ -110,12 +110,7 @@ const beknur = {
       </a>
       <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
+   
   </tr>
 </table>
 
@@ -133,35 +128,9 @@ const beknur = {
   <img src="https://github-profile-trophy.vercel.app/?username=BEknUur&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" height="200" />
 </div>
 
-## 🔥 Epic Projects
 
-<div align="center">
-  <a href="https://github.com/BEknUur/project-1">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BEknUur&repo=project-1&theme=radical&bg_color=0D1117&hide_border=true" alt="project-1" />
-  </a>
-  <a href="https://github.com/BEknUur/project-2">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BEknUur&repo=project-2&theme=radical&bg_color=0D1117&hide_border=true" alt="project-2" />
-  </a>
-</div>
 
-## 💯 Professional Experience
 
-```mermaid
-graph LR
-    A[Started Coding] --> B[First Job at Enjoy]
-    B --> C[Mastered Python]
-    C --> D[Backend Development]
-    D --> E[Microservices Architecture]
-    E --> F[Working at Nanny]
-    F --> G[Building the Future]
-    style A fill:#ff5f5f,stroke:#333,stroke-width:2px
-    style B fill:#5f5fff,stroke:#333,stroke-width:2px
-    style C fill:#5fff5f,stroke:#333,stroke-width:2px
-    style D fill:#ff5fff,stroke:#333,stroke-width:2px
-    style E fill:#ffff5f,stroke:#333,stroke-width:2px
-    style F fill:#5fffff,stroke:#333,stroke-width:2px
-    style G fill:#ff9f5f,stroke:#333,stroke-width:2px
-```
 
 ## 📞 Connect With Me
 
