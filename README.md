@@ -23,15 +23,13 @@
 ```javascript
 const beknur = {
   workingAt: ["Enjoy", "Nanny"],
-  code: ["C++", "Python", "Go", "JavaScript", "TypeScript", "HTML", "CSS"],
+  code: ["C++", "Python", "JavaScript", "TypeScript", "HTML", "CSS"],
   frameworks: ["Spring Boot", "FastAPI", "React", "AngularJS", "Express"],
-  containerization: ["Docker", "Kubernetes"],
-  uiLibraries: ["Tailwind CSS", "Material UI", "Bootstrap", "Chakra UI"],
-  databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
-  devOps: ["CI/CD", "GitHub Actions", "Jenkins"],
+  containerization: ["Docker",],
+  uiLibraries: ["Tailwind CSS", "Material UI", "Bootstrap",],
+  databases: ["PostgreSQL", "MongoDB", "MySQL"],
+  devOps: [ "GitHub Actions"],
   cloudPlatforms: ["AWS", "Google Cloud", "Azure"],
-  architecture: ["Microservices", "Event-Driven", "Serverless"],
-  currentlyLearning: ["React Native", "GraphQL", "Web3"],
   challenge: "Pushing my limits every day as a developer"
 };
 ```
