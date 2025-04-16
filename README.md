@@ -26,7 +26,7 @@ const beknur = {
   code: ["C++", "Python", "JavaScript", "TypeScript", "HTML", "CSS"],
   frameworks: ["Spring Boot", "FastAPI", "React", "AngularJS", "Express"],
   containerization: ["Docker"],
-  uiLibraries: ["Tailwind CSS", "Material UI", "Bootstrap"],
+  uiLibraries: ["Tailwind CSS", "Material UI",ShadCn, "Bootstrap"],
   databases: ["PostgreSQL", "MongoDB", "MySQL"],
   devOps: [ "GitHub Actions"],
   cloudPlatforms: ["AWS", "Google Cloud", "Azure"],
