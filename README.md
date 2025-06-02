@@ -22,7 +22,7 @@
 
 ```javascript
 const beknur = {
-  workingAt: ["Enjoy", "Nanny","AmanbayTech"],
+  workingAt: ["nFactorial Incbubator'25],
   code: ["C++", "Python", "JavaScript", "TypeScript", "HTML", "CSS"],
   frameworks: ["Spring Boot", "FastAPI", "React", "AngularJS", "Express"],
   containerization: ["Docker"],
