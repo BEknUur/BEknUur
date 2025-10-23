@@ -22,12 +22,12 @@
 
 ```javascript
 const beknur = {
-  workingAt: ["nFactorial Incbubator'25],
+  workingAt: ["on.ai"],
   code: ["C++", "Python", "JavaScript", "TypeScript", "HTML", "CSS"],
   frameworks: ["Spring Boot", "FastAPI", "React", "AngularJS", "Express"],
   containerization: ["Docker"],
   uiLibraries: ["Tailwind CSS", "Material UI","ShadCn", "Bootstrap"],
-  databases: ["PostgreSQL", "MongoDB", "MySQL"],
+  databases: ["PostgreSQL", "Sqlite", "MySQL"],
   devOps: [ "GitHub Actions"],
   cloudPlatforms: ["AWS", "Google Cloud", "Azure"],
   challenge: "Pushing my limits every day as a developer"
@@ -137,7 +137,7 @@ const beknur = {
   <a href="mailto:ualihanulybeknur@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/nahqt">
+  <a href="https://t.me/beknur_10">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.linkedin.com/in/beknur-ualikhanuly-039704245/">
