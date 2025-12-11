@@ -22,12 +22,11 @@
 
 ```javascript
 const beknur = {
-  workingAt: ["on.ai"],
-  code: ["C++", "Python", "JavaScript", "TypeScript", "HTML", "CSS"],
-  frameworks: ["Spring Boot", "FastAPI", "React", "AngularJS", "Express"],
+  code: ["C++", "Python", "JavaScript"],
+  frameworks: ["Spring Boot", "FastAPI", "React", "AngularJS", "LiteStar", "Svelte"],
   containerization: ["Docker"],
-  uiLibraries: ["Tailwind CSS", "Material UI","ShadCn", "Bootstrap"],
-  databases: ["PostgreSQL", "Sqlite", "MySQL"],
+  uiLibraries: ["Tailwind CSS", "Material UI","ShadCn"],
+  databases: ["PostgreSQL", "Sqlite"],
   devOps: [ "GitHub Actions"],
   cloudPlatforms: ["AWS", "Google Cloud", "Azure"],
   challenge: "Pushing my limits every day as a developer"
