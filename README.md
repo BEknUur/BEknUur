@@ -67,12 +67,6 @@ const beknur = {
       </a>
       <br>FastAPI
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      </a>
-      <br>Go
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
